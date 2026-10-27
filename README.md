@@ -1,4 +1,3 @@
-# <img src="https://demolab.com!" alt="Typing SVG" />
 
 # Olá, eu sou a Maria Eduarda Coimbra! 
 
