@@ -19,12 +19,6 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Sou estudante de tecnologia, apaixona
 - **Ambiente de Desenvolvimento:** VS Code
 - **Controle de Versão:** Git, GitHub
 
-## Estatísticas do GitHub
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de Maria" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
-</p>
-
 ## Vamos nos conectar?
 Se quiser trocar ideias sobre projetos, estudos ou oportunidades, fique à vontade para entrar em contato:
 
